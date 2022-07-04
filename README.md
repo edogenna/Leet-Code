@@ -1,9 +1,5 @@
-# Leet-Code
-My solution to https://leetcode.com/ problems
+# My solution to Leet Code problems
 
-
-
-| #    | Question      |   Solution   |   Diffulty  |
-| ---- | -----------| ------- | ------- |
-| 1 |[Two Sum](https://leetcode.com/problems/two-sum)|[C](https://github.com/)|Easy|  |
-
+| # | Difficulty | Title | Solution |
+|---| ---------- | ----- | -------- |
+0001|🟩Easy|[Two Sum](https://leetcode.com/problems/two-sum)|[C](https://github.com/edogenna/)
